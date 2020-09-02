@@ -21954,7 +21954,7 @@ GND</text>
 <part name="GND2" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="D1_BP" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NO" device="_SILK" package3d_urn="urn:adsk.eagle:package:39279/1" value=""/>
 <part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE-SCHOTTKY" device="-BAT60A" value="3A/10V/280mV"/>
-<part name="S1" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-5.2MM-TALL" value=""/>
+<part name="S1" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-5.2MM-TALL" value="SMD_5.2MM"/>
 <part name="GND4" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="J1" library="teensy_boards" deviceset="TEENSY_EXTENDED" device="NO_SILK" value="TEENSY_EXTENDED"/>
 <part name="J4" library="SparkFun-Connectors" deviceset="QWIIC_CONNECTOR" device="" value="QWIIC_Vertical"/>
@@ -22056,7 +22056,6 @@ to bypass D1</text>
 </instance>
 <instance part="S1" gate="G$1" x="50.8" y="58.42" smashed="yes" rot="R270">
 <attribute name="NAME" x="52.324" y="58.42" size="1.778" layer="95" font="vector" rot="R270" align="bottom-center"/>
-<attribute name="VALUE" x="50.292" y="58.42" size="1.778" layer="96" font="vector" rot="R270" align="top-center"/>
 </instance>
 <instance part="GND4" gate="1" x="50.8" y="48.26" smashed="yes">
 <attribute name="VALUE" x="48.26" y="45.72" size="1.778" layer="96" font="vector"/>
